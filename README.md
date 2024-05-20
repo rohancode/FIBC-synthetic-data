@@ -1,6 +1,6 @@
 # FIBC-synthetic-data
 
-The Synthetic Dataset Generator is a Python code for generating synthetic datasets with input as feature importance for binary classification labelled dataset
+The FIBC Synthetic Data project is a Python code for generating synthetic datasets with input as feature importance for binary classification labelled dataset.
 
 ## Features
 
