@@ -11,7 +11,7 @@ The Synthetic Dataset Generator is a Python code for generating synthetic datase
 
 ## Usage
 
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/rohancode/FIBC-synthetic-data/blob/main/Generator.ipynb)
 
 ## Contact
 
