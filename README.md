@@ -11,7 +11,7 @@ The FIBC Synthetic Data project is a Python code for generating synthetic datase
 
 ## Usage
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19OA6jg0wkJXKWWVWiDDhU0miauqsvF4C?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/rohancode/FIBC-synthetic-data/blob/main/Generator.ipynb)
 
 ## Contact
 
